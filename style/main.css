@@ -435,7 +435,7 @@ hr {
 
 .tile.tile-2 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/frog-4096.jpeg');
+    background-image: url('../img/frog-2.jpeg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
 }
@@ -506,12 +506,12 @@ hr {
     /* box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333); */
 }
 
-/*.tile.tile-4096 .tile-inner {
+.tile.tile-4096 .tile-inner {
     font-size: 0px;
     background-image: url('../img/frog-4096.jpeg');
     background-size: cover;
     /* box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333); */
-/*}*/
+}
 
 .tile.tile-super .tile-inner {
     font-size: 0px;
