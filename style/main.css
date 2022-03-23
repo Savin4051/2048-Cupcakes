@@ -188,7 +188,7 @@ hr {
     -ms-user-select: none;
     -ms-touch-action: none;
     touch-action: none;
-    background: #d9d2e9;
+    background: #d9d2e9; /*grid background color*/
     border-radius: 6px;
     width: 500px;
     height: 500px;
