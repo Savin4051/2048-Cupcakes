@@ -102,7 +102,7 @@ h1.title {
     font-size: 25px;
     line-height: 25px;
     font-weight: bold;
-    color: rgba(175, 40, 101, 0.5); /*editing this line*/
+    color: rgba(175, 40, 101, 0.5); /*color of the floating score text*/
     z-index: 100;
     -webkit-animation: move-up 600ms ease-in;
     -moz-animation: move-up 600ms ease-in;
@@ -139,7 +139,7 @@ strong.important {
 
 hr {
     border: none;
-    border-bottom: 1px solid #d8d4d0;
+    border-bottom: 1px solid #80e5a4; /*editing this line*/
     margin-top: 20px;
     margin-bottom: 30px;
 }
