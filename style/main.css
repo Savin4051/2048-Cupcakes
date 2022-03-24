@@ -732,7 +732,7 @@ hr {
         -ms-user-select: none;
         -ms-touch-action: none;
         touch-action: none;
-        background: #ff4cb0; /*check next!! Original #bbada0*/
+        background: #8262c7; /*mobile color of gird. Original #bbada0*/
         border-radius: 6px;
         width: 280px;
         height: 280px;
