@@ -204,7 +204,7 @@ hr {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(2, 228, 218, 0.5); /*editing now ????*/
+    background: rgba(238, 228, 218, 0.5); /*color of the background of the game over screen*/
     z-index: 100;
     text-align: center;
     -webkit-animation: fade-in 800ms ease 1200ms;
