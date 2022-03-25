@@ -127,7 +127,7 @@ p {
 }
 
 a {
-    color: #45b8cb; /*color of link text, original #776e65*/
+    color: #45b8cb; /*color of link text*/
     font-weight: bold;
     text-decoration: underline;
     cursor: pointer;
@@ -245,7 +245,7 @@ hr {
 }
 
 .game-container .game-message.game-won {
-    background: rgba(237, 194, 46, 0.5);
+    background: rgba(67, 65, 188, 0.5); /*prob wtvr victory screen? Original 237, 194, 46, 0.5*/
     color: #f9f6f2;
 }
 
@@ -732,7 +732,7 @@ hr {
         -ms-user-select: none;
         -ms-touch-action: none;
         touch-action: none;
-        background: #8262c7; /*mobile color of gird. Original #bbada0*/
+        background: #8262c7; /*mobile color of gird.*/
         border-radius: 6px;
         width: 280px;
         height: 280px;
@@ -770,7 +770,7 @@ hr {
     }
     .game-container .game-message a {
         display: inline-block;
-        background: #8f7a66;
+        background: #bb00ff; /*editing now*/
         border-radius: 3px;
         padding: 0 20px;
         text-decoration: none;
