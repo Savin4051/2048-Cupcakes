@@ -770,11 +770,11 @@ hr {
     }
     .game-container .game-message a {
         display: inline-block;
-        background: #8f7a66; /*???? Overruled by ealier definition of the same?*/
+        background: #717171; /*mobile try again box*/
         border-radius: 3px;
         padding: 0 20px;
         text-decoration: none;
-        color: #bb00ff; /*editing now; original #f9f6f2*/
+        color: #ffffff; /*mobile try again text/
         height: 40px;
         line-height: 42px;
         margin-left: 9px;
