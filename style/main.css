@@ -245,7 +245,7 @@ hr {
 }
 
 .game-container .game-message.game-won {
-    background: rgba(67, 65, 188, 0.5); /*prob wtvr victory screen? Original 237, 194, 46, 0.5*/
+    background: rgba(164, 163, 210, 0.5); /*prob wtvr victory screen? Original 237, 194, 46, 0.5*/
     color: #f9f6f2;
 }
 
@@ -783,7 +783,7 @@ hr {
         display: none;
     }
     .game-container .game-message.game-won {
-        background: rgba(237, 194, 46, 0.5);
+        background: rgba(164, 163, 210, 0.5); /*editing now, victory screen on mobile? Original rgba(237, 194, 46, 0.5)*/
         color: #f9f6f2;
     }
     .game-container .game-message.game-won a.keep-playing-button {
